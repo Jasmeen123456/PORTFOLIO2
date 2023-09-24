@@ -1,0 +1,37 @@
+
+.h1{
+    text-align: center;
+    padding: none;
+    margin: auto;
+    margin-left: 20%;
+    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.h1 :hover{
+    cursor: pointer;
+}
+div{text-align: center;
+    text-align: justify;
+    text-align-last:right;
+    text-align-last: center;
+
+}
+
+p{
+    text-indent:5px;
+    line-height: 0.8;
+    word-spacing: 10px;
+    white-space: nowrap;
+}
+h1{
+    text-decoration: overline,line-through,underline;
+    text-decoration-color: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+}
+h1{
+    text-shadow:2px 2px;
+    text-shadow:2px 3px red;
+    text-shadow:2px 5px 2px rgb(213, 77, 202);
+}
